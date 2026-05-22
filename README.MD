@@ -76,13 +76,13 @@ Global-data-science-salary-analysis/
 
 ## Visualizations
 
-![Country Salary](images/country_salary.png)
+![Country Salary](images/avg_salary_country.png)
 
-![Job Roles Salary](images/job_roles_salary.png)
+![Job Roles Salary](images/job_vs_salary.png)
 
 ![Experience Salary](images/experience_salary.png)
 
-![Remote Work Salary](images/remote_work_salary.png)
+![Remote Work Salary](images/remotework.png)
 
 ## Future Improvements
 - Add machine learning salary prediction model
