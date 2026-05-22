@@ -44,10 +44,10 @@ Global-data-science-salary-analysis/
 │   └── visualization.py
 │
 ├── images/
-│   ├── country_salary.png
-│   ├── job_roles_salary.png
+│   ├── avg_salary_country.png
+│   ├── job_vs_salary.png
 │   ├── experience_salary.png
-│   └── remote_work_salary.png
+│   └── remotework.png
 │
 ├── requirements.txt
 ├── README.md
